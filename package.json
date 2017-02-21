@@ -1,0 +1,23 @@
+{
+  "name": "stylelint-formatter-relative-junit",
+  "version": "0.0.1",
+  "description": "A fork of the junit formatter for stylelint, but with relative path",
+  "repository": "elao/stylelint-formatter-relative-junit",
+  "license": "MIT",
+  "author": {
+    "name": "Elao",
+    "url": "http://elao.com"
+  },
+  "main": "formatter.js",
+  "files": [
+    "formatter.js"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "keywords": [
+    "stylelint",
+    "formatter",
+    "stylelint formatter"
+  ]
+}
