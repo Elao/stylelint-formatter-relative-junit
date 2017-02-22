@@ -8,9 +8,9 @@
     "name": "Elao",
     "url": "http://elao.com"
   },
-  "main": "formatter.js",
+  "main": "index.js",
   "files": [
-    "formatter.js"
+    "index.js"
   ],
   "engines": {
     "node": ">=0.10.0"
