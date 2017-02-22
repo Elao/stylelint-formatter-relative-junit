@@ -1,6 +1,6 @@
 {
   "name": "stylelint-formatter-relative-junit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A fork of the junit formatter for stylelint, but with relative path",
   "repository": "elao/stylelint-formatter-relative-junit",
   "license": "MIT",
@@ -19,5 +19,8 @@
     "stylelint",
     "formatter",
     "stylelint formatter"
-  ]
+  ],
+  "dependencies": {
+    "xmlbuilder": "^8.2.2"
+  }
 }
