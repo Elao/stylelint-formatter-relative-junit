@@ -6,7 +6,7 @@
 ## install
 
 ```bash
-yarn add -dev stylelint-formatter-relative-junit
+yarn add --dev stylelint-formatter-relative-junit
 ```
 
 ## Usage
